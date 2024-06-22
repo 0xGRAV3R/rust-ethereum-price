@@ -29,5 +29,7 @@ cargo run
 ```
 
 # Rust Desktop App Example
-A simple rust desktop app that displays the current price of Ethereum. Please note that this is a fork of the bitcoin price grabber.
+A simple rust desktop app that displays the current price of Ethereum. <br>
+Please note that this is a fork of the bitcoin price grabber.<br>
+
 ![App Screenshot](/screenshot.png)
